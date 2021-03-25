@@ -8,6 +8,8 @@ public class TestSwitch2 {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("请输入你的成绩");
 		while(!sc.hasNextInt()) {
+			
+			
 			System.out.println("输入错误");
 			sc.next();
 		}
