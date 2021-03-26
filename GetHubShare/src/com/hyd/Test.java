@@ -6,7 +6,7 @@ public class Test{
 		//333+123
 		//创建一个对象123
 		Operator op = new Operator();
-		//调用方法
+		//调用方法345
 		op.functionShi();
 		System.out.println("Hello,World");
 		System.out.println("I Love You");
