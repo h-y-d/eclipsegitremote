@@ -1,11 +1,12 @@
 package com.hyd;
 
 public class Test{
-	//main·½·¨£¬³ÌĞòµÄÈë¿Ú
+	//mainæ–¹æ³•ï¼Œç¨‹åºçš„å…¥å£
 	public static void main(String[] args) {
-		//´´½¨Ò»¸ö¶ÔÏó
+		//123
+		//åˆ›å»ºä¸€ä¸ªå¯¹è±¡
 		Operator op = new Operator();
-		//µ÷ÓÃ·½·¨ÊµÏÖ¹¦ÄÜ
+		//è°ƒç”¨æ–¹æ³•å®ç°åŠŸèƒ½
 		op.functionShi();
 	}
 }
