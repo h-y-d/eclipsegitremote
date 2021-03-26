@@ -1,12 +1,12 @@
 package com.hyd;
 
 public class Test{
-	//main·½·¨£¬³ÌĞòµÄÈë¿Ú
+	//mainæ–¹æ³•ï¼Œç¨‹åºçš„å…¥å£
 	public static void main(String[] args) {
 		//333+123
-		//´´½¨Ò»¸ö¶ÔÏó
+		//åˆ›å»ºä¸€ä¸ªå¯¹è±¡
 		Operator op = new Operator();
-		//µ÷ÓÃ·½·¨
+		//è°ƒç”¨æ–¹æ³•123
 		op.functionShi();
 		System.out.println("Hello,World");
 		System.out.println("I Love You");
